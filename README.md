@@ -1,1 +1,1 @@
-# swarm-electrification-with-battery-degradation
+# Swarm electrification with battery degradation
